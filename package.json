@@ -1,0 +1,20 @@
+{
+  "name": "create-vue3-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namehunter/create-vue3-lib.git"
+  },
+  "keywords": [],
+  "author": "justforuse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namehunter/create-vue3-lib/issues"
+  },
+  "homepage": "https://github.com/namehunter/create-vue3-lib#readme"
+}
